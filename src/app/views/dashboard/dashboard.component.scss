@@ -1,0 +1,24 @@
+:host {
+  .legend {
+    small {
+      font-size: x-small;
+    }
+  }
+}
+
+
+.circle:before {
+  content: ' \25CF';
+  font-size: 22px;
+  color: #0d6efd;
+}
+
+.circle2:before {
+  content: ' \25CF';
+  font-size: 22px;
+  color: #198754;
+}
+
+.card-title{
+  margin-top: 6px;
+}
